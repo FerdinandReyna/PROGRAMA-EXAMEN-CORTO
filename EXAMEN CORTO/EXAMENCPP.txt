@@ -1,0 +1,7 @@
+Ingrese palabra:
+Verdadero
+no es palindromo
+
+--------------------------------
+Process exited after 6.583 seconds with return value 0
+Presione una tecla para continuar . . .
